@@ -1,0 +1,25 @@
+
+default.xml
+
+
+<?xml version="1.0" encoding="UTF-8"?>                                           
+<manifest>                                                                       
+    <remote                                                                      
+        name="origin"                                                            
+        fetch="https://git@github.com/"/>                                          
+    <remote                                                                      
+        name="html5"                                                             
+        fetch="https://git@github.com/"                                            
+        review="review.gerrithub.io"/>                                           
+    <default revision="master" remote="origin"/>                                 
+                                                                                 
+    <project                                                                     
+        path="mproject1"                                                              
+        name="zwjkim/mproject1"/>                                                  
+    <project                                                                     
+        path="mproject2"                                                              
+        name="zwjkim/mproject2"/>                                                  
+</manifest> 
+[출처] [git-repo] Google repo로 프로젝트 관리하기|작성자 발그레환이
+
+
