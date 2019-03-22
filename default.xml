@@ -6,10 +6,10 @@ default.xml
 <manifest>                                                                       
     <remote                                                                      
         name="origin"                                                            
-        fetch="https://git@github.com/"/>                                          
+        fetch="ssh://git@github.com/"/>                                          
     <remote                                                                      
-        name="html5"                                                             
-        fetch="https://git@github.com/"                                            
+        name="myproject1"                                                             
+        fetch="ssh://git@github.com/"                                            
         review="review.gerrithub.io"/>                                           
     <default revision="master" remote="origin"/>                                 
                                                                                  
