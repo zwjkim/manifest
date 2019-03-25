@@ -14,7 +14,7 @@
         name="zwjkim/mproject1"/>                                                  
     <project                                                                     
         path="mproject2"                                                              
-        name="zwjkim/mproject2"/>                                                  
+        name="zwjkim/mproject2" revision="hqx_cs8.1"/>                                                  
 </manifest> 
 
 
